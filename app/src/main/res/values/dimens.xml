@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="iv_rectangle_width">220sp</dimen>
+    <dimen name="iv_rectangle_height">150sp</dimen>
+    <dimen name="iv_square_width">150sp</dimen>
+    <dimen name="iv_square_height">150sp</dimen>
+    <dimen name="iv_margin">10sp</dimen>
+    <dimen name="iv_padding">10sp</dimen>
+</resources>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="shapeAppearance.Circle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="shapeAppearance.Rectangle.Rounded.Strong" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">80%</item>
+    </style>
+
+    <style name="shapeAppearance.Square.Rounded.Strong" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">80%</item>
+    </style>
+
+    <style name="shapeAppearance.Rectangle.Cut.Strong" parent="">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSize">80%</item>
+    </style>
+
+    <style name="shapeAppearance.Square.Cut.Strong" parent="">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSize">80%</item>
+    </style>
+
+
+    <style name="shapeAppearance.Rectangle.Cut.Cross" parent="">
+        <item name="cornerFamilyTopLeft">cut</item>
+        <item name="cornerSizeTopLeft">40%</item>
+        <item name="cornerFamilyBottomRight">cut</item>
+        <item name="cornerSizeBottomRight">40%</item>
+    </style>
+
+    <style name="shapeAppearance.Square.Cut.Cross" parent="">
+        <item name="cornerFamilyTopLeft">cut</item>
+        <item name="cornerSizeTopLeft">30%</item>
+        <item name="cornerFamilyBottomRight">cut</item>
+        <item name="cornerSizeBottomRight">30%</item>
+    </style>
+
+
+    <style name="shapeAppearance.Rectangle.Rounded.Cross" parent="">
+        <item name="cornerFamilyTopLeft">rounded</item>
+        <item name="cornerSizeTopLeft">30%</item>
+        <item name="cornerFamilyBottomRight">rounded</item>
+        <item name="cornerSizeBottomRight">30%</item>
+    </style>
+
+    <style name="shapeAppearance.Square.Rounded.Cross" parent="">
+        <item name="cornerFamilyTopLeft">rounded</item>
+        <item name="cornerSizeTopLeft">30%</item>
+        <item name="cornerFamilyBottomRight">rounded</item>
+        <item name="cornerSizeBottomRight">30%</item>
+    </style>
+
+    <style name="shapeAppearance.Rectangle.Cut.Weak" parent="">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSize">20%</item>
+    </style>
+
+    <style name="shapeAppearance.Square.Cut.Weak" parent="">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSize">20%</item>
+    </style>
+
+    <style name="shapeAppearance.Square" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">0%</item>
+    </style>
+
+    <style name="shapeAppearance.Diamond" parent="">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="shapeAppearance.Rectangle" parent="">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSize">0%</item>
+    </style>
+
+    <style name="shapeAppearance.Rectangle.Rounded" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10%</item>
+    </style>
+
+    <style name="shapeAppearance.Square.Rounded" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+    </style>
+
+    <style name="shapeAppearance.Rhombus" parent="">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="shapeAppearance.Hexagon" parent="">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
